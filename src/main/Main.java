@@ -22,6 +22,7 @@ public class Main {
             s.GetInfo();
         }
         System.out.println("First add");
+        System.out.println("Second add in a new branch");
         int menu;
         while(true){
             menu=0;
