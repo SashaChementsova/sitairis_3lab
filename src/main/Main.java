@@ -21,6 +21,7 @@ public class Main {
         for(Staff s:staff){
             s.GetInfo();
         }
+        System.out.println("First add");
         int menu;
         while(true){
             menu=0;
